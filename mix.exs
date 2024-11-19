@@ -1,7 +1,7 @@
 defmodule PhoenixInlineSvg.Mixfile do
   use Mix.Project
 
-  @source_url "https://github.com/nikkomiu/phoenix_inline_svg"
+  @source_url "https://github.com/data-twister/phoenix_inline_svg"
   @version "1.4.0"
 
   def project do
